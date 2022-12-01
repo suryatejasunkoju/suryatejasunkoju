@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @suryatejasunkoju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-✨ stars ✨ shine anyways. 
---->
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Java, DSA, SQL, HTML, CSS, JS.
+- 💞️ I’m looking to collaborate on anything that related to tech.
+- 📫 How to reach me sunkojusuryateja@gmail.com
+-✨ stars ✨ shine anyways. 
