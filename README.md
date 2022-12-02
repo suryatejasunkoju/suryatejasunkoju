@@ -7,18 +7,13 @@
 - 💞️ I’m looking to collaborate on anything that related to tech.
 - 📫 How to reach me sunkojusuryateja@gmail.com
 -✨ stars ✨ shine anyways. 
-**`FrontEnd Web Developer`**
-- - 💼 Open to worK
-- - 🌱 I’m currently learning javascript and react
-- - 💬 Ask me about anything [here](https://github.com/pavanvinjamara/pavanvinjamara/issues)
+-  💬 Ask me about anything [here](https://github.com/suryatejasunkoju/suryatejasunkoju/issues)
 
-| <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanvinjamara&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/pavanvinjamara/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suryatejasunkoju&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 ### Languages
-
-
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
@@ -30,8 +25,5 @@
 <br />
 
 #   
-   
 ## My Contributions
-
-
 ![snake gif](https://github.com/pavanvinjamara/pavanvinjamara/blob/output/github-contribution-grid-snake.svg)
