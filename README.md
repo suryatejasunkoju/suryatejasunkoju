@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @suryatejasunkoju</h1>
-<p align="center"><a href="https://.github.io"pavanvinjamara><img width="80%" alt="Hello, I'm Suryateja Sunkoju" src="readme-header.png" /></a></p>
+<p align="center"><a href="https://.github.io"suryatejasunkoju><img width="80%" alt="Hello, I'm Suryateja Sunkoju" src="readme-header.png" /></a></p>
 
 ---
 **- 👀Backend Development**
