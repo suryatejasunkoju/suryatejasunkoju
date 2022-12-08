@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on anything that related to tech.
 - 📫 How to reach me sunkojusuryateja@gmail.com
 - ✨stars ✨ shine anyways. 
-- 💬 Ask me about anything [here](https://github.com/suryatejasunkoju/suryatejasunkoju/issues)
+<!-- - 💬 Ask me about anything [here](https://github.com/suryatejasunkoju/suryatejasunkoju/issues) -->
 
 | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suryatejasunkoju&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
