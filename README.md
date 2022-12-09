@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @suryatejasunkoju</h1>
+<h1>👋 Hi, I’m </h1>
 <p align="center">
   <img width="80%" alt="Hello, I'm Suryateja Sunkoju" src="https://github.com/suryatejasunkoju/suryatejasunkoju/blob/main/suryateja-logo.png"/>
 </p>
