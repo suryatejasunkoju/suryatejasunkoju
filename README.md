@@ -4,7 +4,7 @@
 </p>
 
 ---
-//**- 👀Backend Development**
+<!--**- 👀Backend Development**-->
 </br>
 </br>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" /></span>
