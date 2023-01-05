@@ -31,9 +31,8 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JAVASCRIPT" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" />
+<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/28/28826.png" />
 <br />
-
 #   
 ## My Contributions
 ![snake gif](https://github.com/suryatejasunkoju/suryatejasunkoju/blob/output/github-contribution-grid-snake.svg)
