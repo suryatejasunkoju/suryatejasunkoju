@@ -1,6 +1,12 @@
 <h1>👋 Hi, I’m </h1>
 <p align="center">
-  <img width="80%" alt="Hello, I'm Suryateja Sunkoju" src="https://github.com/suryatejasunkoju/suryatejasunkoju/blob/main/suryateja-logo.png"/>
+<!--   <img width="80%" alt="Hello, I'm Suryateja Sunkoju" src="https://github.com/suryatejasunkoju/suryatejasunkoju/blob/main/suryateja-logo.png"/> -->
+  <h1>
+    <i><b>Suryateja Sunkoju</b></i>
+  </h1>
+  <h6>
+    <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
+  </h6>
 </p>
 
 ---
