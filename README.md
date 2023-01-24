@@ -27,8 +27,8 @@
 
 ### Languages
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="spring-logo.png" />
-<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="spring-boot-logo.png" />
+<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="../spring-logo.png" />
+<img align="left" alt="sql" width="30px" style="padding-right:10px;" src="../spring-boot-logo.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JAVASCRIPT" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
