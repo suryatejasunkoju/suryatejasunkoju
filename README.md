@@ -2,8 +2,7 @@
 <h1  align="center">👋 Hi, I’m </h1>
   <h1 align="center">
     <i>
-      I'm Suryateja Sunkoju
-      <span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" />           </span>
+      Suryateja Sunkoju
     </i>
   </h1>
   <h6 align="center">
@@ -68,7 +67,7 @@
   </a>
   
 # About me
-
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" /></span>
 
 </br>
 
