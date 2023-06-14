@@ -8,7 +8,7 @@
   https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true
   </h6>
   
-  #### Sections
+  #### Sections :
   - [Experience](#Experience)
   - [Skills](#Skills)
   - [Projects](#Projects)
