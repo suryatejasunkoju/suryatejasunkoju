@@ -17,7 +17,7 @@
   - [Education](#Education)
   - [Interests](#Interests)
   - [Contact](#Contact)
-  - [About me](#About me)
+  - [About me](#About-me)
 
 # Experience
 # Skills
