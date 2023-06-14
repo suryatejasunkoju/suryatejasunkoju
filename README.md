@@ -69,7 +69,7 @@
 # Contact
 
   <a target="_blanck" href="mailto:sunkojusuryateja@gmail.com">
-      <img alt="gmail logo" width="80px" height="50px" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png">
+      <img alt="gmail logo" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png">
   </a>
     <a target="_blanck" href="https://github.com/suryatejasunkoju">
       <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
