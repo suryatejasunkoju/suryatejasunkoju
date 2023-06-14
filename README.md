@@ -30,8 +30,14 @@
   <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" widht=50px height=50px>
   <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" widht=50px height=50px>
   <img src="https://repository-images.githubusercontent.com/489647435/582d4108-32fb-4372-823c-79e80def9694" widht=50px height=50px>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2IPJURpTMkq_e6ivt1FTdepet22cLS1OHIOhw8u4ZXRq1K_eOi3O9s7CICT4tBPL--ro9NG7DIE&usqp=CAU&ec=48665698" widht=50px height=50px>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2IPJURpTMkq_e6ivt1FTdepet22cLS1OHIOhw8u4ZXRq1K_eOi3O9s7CICT4tBPL--ro9NG7DIE&usqp=CAU&ec=48665698" width=50px height=50px>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+
 # Projects
 # Education
 # Interests
