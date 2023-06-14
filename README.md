@@ -37,14 +37,21 @@
   <img alt="maven logo" width=100px height=60px src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png" >
   <img alt="maven logo" width=120px height=60px src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" >
   <img alt="html logo" width=60px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png">
-  <img alt="css logo" width=60px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
+  <img alt="css logo" width=50px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
   <img alt="javascript logo" width=60px height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 # Projects
   1. Book My Show Backend
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
+ 
+  2. Book My Show Backend
+     1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
+     2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
   
+  3. Book My Show Backend
+     1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
+     2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
 # Education
 # Interests
 # Contact
