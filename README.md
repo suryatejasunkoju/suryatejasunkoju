@@ -46,15 +46,17 @@
 # Education
 # Interests
 # Contact
-  <a target="_blank" href="sunkojusuryateja@gmail.com">
+  <a target="_blanck" href="#">
       <img alt="gmail logo" width="80px" height="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png">
+      <b>sunkojusuryateja@gmail.com</b>
   </a>
-  <a target="_blank" href="https://github.com/suryatejasunkoju">
+  <a target="_blanck" href="https://github.com/suryatejasunkoju">
       <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/suryateja-sunkoju-547a7316a/">
+  <a target="_blanck" href="https://www.linkedin.com/in/suryateja-sunkoju-547a7316a/">
       <img alt="linkedin logo" width="50px" height="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   </a>
+  
 # About me
 
 
