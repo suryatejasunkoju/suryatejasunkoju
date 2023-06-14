@@ -5,15 +5,15 @@
   <h6 align="center">
     <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
   </h6>
-  - [Overview](#1-overview)
+- [Overview](#1-overview)
 - [Authentication](#2-authentication)
-  - [Browser-based authentication](#21-browser-based-authentication)
-  - [Self-issued access tokens](#22-self-issued-access-tokens)
+- [Browser-based authentication](#21-browser-based-authentication)
+- [Self-issued access tokens](#22-self-issued-access-tokens)
 - [Resources](#3-resources)
-  - [Users](#31-users)
-  - [Publications](#32-publications)
-  - [Posts](#33-posts)
-  - [Images](#34-images)
+- [Users](#31-users)
+- [Publications](#32-publications)
+- [Posts](#33-posts)
+- [Images](#34-images)
 - [Testing](#4-testing)
 </br>
 </br>
