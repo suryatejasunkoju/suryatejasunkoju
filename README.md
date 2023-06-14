@@ -4,20 +4,20 @@
   </h1>
   <h6 align="center">
     <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
+  https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true
   </h6>
   
-  ####Contents
+  #### Contents
   
-- [Overview]
-  - [Authentication]
-  - [Browser-based authentication]
-  - [Self-issued access tokens]
-  - [Resources]
-  - [Users]
-- [Publications]
+- [Profile]
+  - [Achievements]
+  - [Skills]
+  - [Interests]
+  - [Education]
+  - [Projects]
   - [Posts]
-  - [Images]
-  - [Testing]
+  - [Contact]
+  - [About me]
 
 
 
