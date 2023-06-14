@@ -1,14 +1,12 @@
 
-<h1  align="center">👋 Hi, I’m </h1>
-  <h1 align="center">
+<h1  align="center">👋 Hi, I’m 
     <i>
       Suryateja Sunkoju
     </i>
-  </h1>
-  <h6 align="center">
-    <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
-  https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true
-  </h6>
+</h1>
+<h6 align="center">
+  <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
+</h6>
   
   #### Sections :
   - [Experience](#Experience)
@@ -20,6 +18,7 @@
   - [About me](#About-me)
 
 # Experience
+
   1. Java Microservice Development Intern 
   + Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
   + Location: Application Software Centre, IIT Bombay, Maharastra.
@@ -28,6 +27,7 @@
   + Location: Remote, Sparks Foundation org.
   
 # Skills
+
   <img alt="java logo" width=100px height=80px src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" >
   <img alt="maven logo" width=150px height=60px src="https://maven.apache.org/images/maven-logo-black-on-white.png" widht=50px height=50px>
   <img alt="spring boot logo" width=100px height=60px src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" >
@@ -44,6 +44,7 @@
   <img alt="javascript logo" width=60px height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 # Projects
+
   1. Book My Show Backend
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
@@ -55,10 +56,14 @@
   3. Book My Show Backend
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
+
+
 # Education
+
 # Interests
+
 # Contact
-  + sunkojusuryateja@gmail.com 
++ sunkojusuryateja@gmail.com 
   <a target="_blanck" href="https://github.com/suryatejasunkoju">
       <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
   </a>
@@ -68,7 +73,7 @@
   
 # About me
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" /></span>
-
+https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true
 </br>
 
 | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suryatejasunkoju&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
