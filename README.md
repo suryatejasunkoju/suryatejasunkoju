@@ -1,6 +1,7 @@
-<h1>👋 Hi, I’m </h1>
+<img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width=500px height=500px>
+<!-- <h1>👋 Hi, I’m </h1> -->
   <h1 align="center">
-    <i><b>Suryateja Sunkoju</b></i>
+    <i><b>I'm Suryateja Sunkoju</b></i>
   </h1>
   <h6 align="center">
     <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
