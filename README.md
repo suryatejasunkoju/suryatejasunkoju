@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width=500px height=500px>
+<img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" width=300px height=300px>
 <!-- <h1>👋 Hi, I’m </h1> -->
   <h1 align="center">
     <i><b>I'm Suryateja Sunkoju</b></i>
