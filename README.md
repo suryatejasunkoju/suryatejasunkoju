@@ -48,17 +48,17 @@
   1. Book My Show Backend
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
-     3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
+     <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
  
   2. Book My Show Backend
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
-     3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
+     <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
      
   3. Book My Show Backend
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
-     3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
+     <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
 
 
 # Education
