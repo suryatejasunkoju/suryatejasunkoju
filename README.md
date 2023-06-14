@@ -31,11 +31,11 @@
   <img alt="spring boot logo" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" widht=50px height=50px>
   <img alt="spring security logo" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633101239445/1LPg4fxdV.png" widht=50px height=50px>
   <img alt="Rest API logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2IPJURpTMkq_e6ivt1FTdepet22cLS1OHIOhw8u4ZXRq1K_eOi3O9s7CICT4tBPL--ro9NG7DIE&usqp=CAU&ec=48665698" width=100px height=60px>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
+  <img src="https://repository-images.githubusercontent.com/158701802/87791800-877e-11e9-8fde-0ae5daacf411" widht=100px height=60px>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JUnit_5_Banner.png/800px-JUnit_5_Banner.png" widht=30px height=30px>
+  <img src="https://miro.medium.com/v2/resize:fit:534/1*3NDVbzYlOTLyRSrpay9uYw.png" widht=30px height=30px>
+  <img src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png" widht=30px height=30px>
+  <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" widht=30px height=30px>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht=30px height=30px>
 
 # Projects
