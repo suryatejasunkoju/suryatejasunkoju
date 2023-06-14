@@ -54,8 +54,8 @@
       <img alt="" width="" height="" src="">
     </a>
 
-  + <a href="https://www.linkedin.com/in/suryateja-sunkoju-547a7316a/">
-      <img alt="linkedin logo" width="" height="" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+  + <a target="_blank" href="https://www.linkedin.com/in/suryateja-sunkoju-547a7316a/">
+      <img alt="linkedin logo" width="60px" height="60px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 # About me
 
