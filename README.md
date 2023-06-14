@@ -10,7 +10,7 @@
   
   #### Contents
   
-- [Profile](#)
+- [Sections](#)
   - [Experience](#Experience)
   - [Skills](#Skills)
   - [Projects](#Projects)
