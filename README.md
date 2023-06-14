@@ -67,9 +67,9 @@
 # Interests
 
 # Contact
-+ sunkojusuryateja@gmail.com 
+
   <a target="_blanck" href="mailto:sunkojusuryateja@gmail.com">
-      <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
+      <img alt="gmail logo" width="80px" height="50px" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png">
   </a>
     <a target="_blanck" href="https://github.com/suryatejasunkoju">
       <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
@@ -80,8 +80,6 @@
   
 # About me
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" /></span>
-https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true
-</br>
 
 | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suryatejasunkoju&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
