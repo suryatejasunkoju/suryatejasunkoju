@@ -46,10 +46,8 @@
 # Education
 # Interests
 # Contact
-  <div>
-      <img alt="gmail logo" width="80px" height="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png">
+<!--       <img alt="gmail logo" width="80px" height="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"> -->
       <i>sunkojusuryateja@gmail.com</i>
-  </div>
   <a target="_blanck" href="https://github.com/suryatejasunkoju">
       <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
   </a>
