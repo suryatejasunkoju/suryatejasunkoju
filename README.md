@@ -13,7 +13,7 @@
   - [Experience](#Experience)
   - [Skills](#Skills)
   - [Projects](#Projects)
-  - [Education](#Education)
+<!--   - [Education](#Education) -->
   - [Interests](#Interests)
   - [Contact](#Contact)
   - [About me](#About-me)
@@ -60,12 +60,13 @@
      1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
      2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
      3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
-
-
-# Education
+<!-- # Education -->
 
 # Interests
 
+    + Startups
+    + Books
+    
 # Contact
 
   <a target="_blanck" href="mailto:sunkojusuryateja@gmail.com">
