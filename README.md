@@ -1,7 +1,7 @@
 
 <h1  align="center">👋 Hi, I’m </h1>
   <h1 align="center">
-    <i><b>I'm Suryateja Sunkoju</b></i>
+    <i><b>I'm Suryateja Sunkoju</i>
   </h1>
   <h6 align="center">
     <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
