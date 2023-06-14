@@ -39,6 +39,10 @@
   <img alt="maven logo" width=80px height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 # Projects
+  1. Book My Show Backend
+     1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
+     2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
+  
 # Education
 # Interests
 # Contact
