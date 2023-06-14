@@ -21,11 +21,11 @@
 
 # Experience
   1. Java Microservice Development Intern 
-  - Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
-  - Location: Application Software Centre, IIT Bombay, Maharastra.
+  + Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
+  + Location: Application Software Centre, IIT Bombay, Maharastra.
   2. Web Developer Intern
-  - Worked on: Basic Banking System using Html, Css, Javascript, etc.
-  - Location: Remote, Sparks Foundation org.
+  + Worked on: Basic Banking System using Html, Css, Javascript, etc.
+  + Location: Remote, Sparks Foundation org.
   
 # Skills
   
