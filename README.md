@@ -7,7 +7,7 @@
 <h6 align="center">
   <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
 </h6>
-  
+  <img align="center" alt="a guy coding gif" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   #### Sections :
   - [Experience](#Experience)
   - [Skills](#Skills)
