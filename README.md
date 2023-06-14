@@ -7,7 +7,7 @@
 <h6 align="center">
   <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
 </h6>
-<img alt="a guy coding gif" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img alt="a guy coding gif" width="100px" height="100px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   
   #### Sections :
   - [Experience](#Experience)
@@ -78,7 +78,9 @@
   
 # About me
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" /></span>
-
+<a href="https://leetcode.com/sunkojusuryateja/">
+    <img alt="leetcode logo" width=100px height=100px src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png">
+</a>
 | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suryatejasunkoju&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
