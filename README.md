@@ -68,7 +68,10 @@
 
 # Contact
 + sunkojusuryateja@gmail.com 
-  <a target="_blanck" href="https://github.com/suryatejasunkoju">
+  <a target="_blanck" href="mailto:sunkojusuryateja@gmail.com">
+      <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
+  </a>
+    <a target="_blanck" href="https://github.com/suryatejasunkoju">
       <img alt="github logo" width="80px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
   </a>
   <a target="_blanck" href="https://www.linkedin.com/in/suryateja-sunkoju-547a7316a/">
