@@ -1,16 +1,20 @@
 <h1>👋 Hi, I’m </h1>
-<!-- <p align="center"> -->
-<!--   <img width="80%" alt="Hello, I'm Suryateja Sunkoju" src="https://github.com/suryatejasunkoju/suryatejasunkoju/blob/main/suryateja-logo.png"/> -->
   <h1 align="center">
     <i><b>Suryateja Sunkoju</b></i>
   </h1>
   <h6 align="center">
     <i>Only thing that makes sense is to strive for Greater Collective Enlightement</i>
   </h6>
-<!-- </p> -->
-
----
-<!--**- 👀Backend Development**-->
+  - [Overview](#1-overview)
+- [Authentication](#2-authentication)
+  - [Browser-based authentication](#21-browser-based-authentication)
+  - [Self-issued access tokens](#22-self-issued-access-tokens)
+- [Resources](#3-resources)
+  - [Users](#31-users)
+  - [Publications](#32-publications)
+  - [Posts](#33-posts)
+  - [Images](#34-images)
+- [Testing](#4-testing)
 </br>
 </br>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=suryatejasunkoju&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaSunkoju" /></span>
@@ -19,7 +23,6 @@
 - 💞️ I’m looking to collaborate on anything that related to tech.
 - 📫 How to reach me sunkojusuryateja@gmail.com
 - ✨stars ✨ shine anyways. 
-<!-- - 💬 Ask me about anything [here](https://github.com/suryatejasunkoju/suryatejasunkoju/issues) -->
 
 | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suryatejasunkoju&show_icons=true&theme=radical" alt="Suryateja's github stats" /></a> | <a href="https://github.com/suryatejasunkoju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaSunkoju&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
