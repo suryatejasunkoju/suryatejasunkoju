@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif" width=300px height=300px align=center>
+<img src="https://image.pngaaa.com/896/3204896-middle.png" width=300px height=300px align=center>
 <!-- <h1>👋 Hi, I’m </h1> -->
   <h1 align="center">
     <i><b>I'm Suryateja Sunkoju</b></i>
