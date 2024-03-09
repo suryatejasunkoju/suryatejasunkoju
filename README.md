@@ -19,12 +19,18 @@
 
 # Experience
 
-  1. Java Microservice Development Intern 
+  1. Backend Developer(Spring Boot, Java)
+  + Worked on:
+  + Explored Language models and integrated chatbot using OpenAI model.
+  + Built new API's.
+  + Optimized existing API's.
+  + Used MySQL for DB
+  + Done Migration in spring boot
+  + Location: Bangalore, Valeo Wellbeing Technologies
+  2. Java Microservice Development Intern 
   + Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
   + Location: Application Software Centre, IIT Bombay, Maharastra.
-  2. Web Developer Intern
-  + Worked on: Basic Banking System using Html, Css, Javascript, etc.
-  + Location: Remote, Sparks Foundation org.
+
   
 # Skills
 
