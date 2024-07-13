@@ -20,13 +20,20 @@
 # Experience
 
   1. Backend Developer(Spring Boot, Java)
-  + Worked on:
-  + Explored Language models and integrated chatbot using OpenAI model.
-  + Built new API's.
-  + Optimized existing API's.
-  + Used MySQL for DB
-  + Done Migration in spring boot
-  + Location: Bangalore, Valeo Wellbeing Technologies
+    + Managed the entire backend infrastructure of the Kuwa ecommerce website, including both the Website and Admin Panel. Leveraged tools & technologies such as         Spring Boot, Java, MySQL, AWS, Git and BigQuery to ensure seamless functionality and optimal performance.
+    + Successfully launched the Kuwa website in Bahrain and Qatar by transitioning from the Shopify platform.
+    + Implemented  Uni-Commerce Integration to enable seamless functionalities including order creation, cancellation, and returns, as well as real-time product          management encompassing both individual items and bundled products using schedulers, API calls, and SQS Message queue.
+    + Developed & implemented code for Data migration from scratch and did migration for orders, customers and products from Shopify to Custom Application.
+    + Implemented Optimal Character Recognition(OCR) functionality within a Spring Boot application to extract data from health test result PDFs.
+    + Implemented Elasticsearch using Spring Boot to enhance search functionality and ensuring precise and refined search results.
+    + Designed and executed SQL queries  to construct dynamic and interactive dashboards in Metabase.
+    + Monitored errors, exceptions, and response times of APIs using New Relic and optimizing API performance issues in real-time.
+    + Led the development of a chatbot proof-of-concept (POC) utilizing open-source models, including LLAMA, OpenAI APIs, Flair, Spacy, and others.
+    + Developed and implemented exciting features like OpenAI API integrations, place order v2 API's with payment gateway integrations for tabby, tap, Tamara            , apple pay, card etc, search with multiple filters & sort by options, deal's section, cart v2 API's, slack-bot integrations, , downloading invoices,               sending emails, import-export, OTP verification, Calendly Integration, WhatsApp Integration, CleverTap API Integration etc.
+    + Converted complete kuwa website to Arabic language.
+    + Conducted training sessions to explain concepts of Java, Spring Boot, MySQL to colleagues enabling employee upskilling.
+    + Collaborated with Front-End Developers and Product Managers to enhance the existing product, reporting directly to the Chief Technology Officer (CTO)
+    + Location: Bangalore, Valeo Wellbeing Technologies
   2. Java Microservice Development Intern 
   + Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
   + Location: Application Software Centre, IIT Bombay, Maharastra.
