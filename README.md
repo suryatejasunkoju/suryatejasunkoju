@@ -44,8 +44,8 @@
 
   
 # Skills
-
-  <img alt="java logo" width=100px height=80px src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" >
+ ## Maven, Spring Boot, Spring Security, MySQL, Java, Rest API's, JUnit, Mockito, HTML, CSS, Js
+  <!-- <img alt="java logo" width=100px height=80px src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" >
   <img alt="maven logo" width=150px height=60px src="https://maven.apache.org/images/maven-logo-black-on-white.png" widht=50px height=50px>
   <img alt="spring boot logo" width=100px height=60px src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" >
   <img alt="spring security logo" width=100px height=60px src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633101239445/1LPg4fxdV.png">
@@ -59,7 +59,7 @@
   <img alt="html logo" width=60px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png">
   <img alt="css logo" width=50px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
   <img alt="javascript logo" width=60px height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
+-->
 # Personal Achievements & Projects
 
   1. Responsive Web Design Certification from FreeCodeCamp website.
@@ -100,6 +100,3 @@
 
 
 <br/>
-
-### My Contributions
-![snake gif](https://github.com/suryatejasunkoju/suryatejasunkoju/blob/output/github-contribution-grid-snake.svg)
