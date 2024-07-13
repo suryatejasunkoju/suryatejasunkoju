@@ -19,7 +19,7 @@
 
 # Experience
 
-  1. Backend Developer(Spring Boot, Java)
+  ## 1. Backend Developer(Spring Boot, Java)
   + Managed the entire backend infrastructure of the Kuwa ecommerce website, including both the Website and Admin Panel. Leveraged tools & technologies such as         Spring Boot, Java, MySQL, AWS, Git and BigQuery to ensure seamless functionality and optimal performance.
   + Successfully launched the Kuwa website in Bahrain and Qatar by transitioning from the Shopify platform.
   + Implemented  Uni-Commerce Integration to enable seamless functionalities including order creation, cancellation, and returns, as well as real-time product          management encompassing both individual items and bundled products using schedulers, API calls, and SQS Message queue.
@@ -34,7 +34,7 @@
   + Conducted training sessions to explain concepts of Java, Spring Boot, MySQL to colleagues enabling employee upskilling.
   + Collaborated with Front-End Developers and Product Managers to enhance the existing product, reporting directly to the Chief Technology Officer (CTO)
   + Location: Bangalore, Valeo Wellbeing Technologies
-  2. Java Microservice Development Intern 
+  ## 2. Java Microservice Development Intern 
   + Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
   + Location: Application Software Centre, IIT Bombay, Maharastra.
 
