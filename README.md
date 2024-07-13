@@ -55,7 +55,7 @@
 
   
 # Skills
- ## Maven, Spring Boot, Spring Security, MySQL, Java, Rest API's, JUnit, Mockito, HTML, CSS, Js
+ ## Maven, Spring Boot, Spring Security, MySQL, Java, Rest API's, JUnit, Mockito, HTML, CSS, Javascript.
   <!-- <img alt="java logo" width=100px height=80px src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" >
   <img alt="maven logo" width=150px height=60px src="https://maven.apache.org/images/maven-logo-black-on-white.png" widht=50px height=50px>
   <img alt="spring boot logo" width=100px height=60px src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" >
