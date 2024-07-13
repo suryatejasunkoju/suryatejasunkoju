@@ -42,6 +42,17 @@
   + Implemented Spring Security Concepts: HTTP Basic Authentication, JWT Authentication, Okta SSO Auth, Role-Based-Access-Control with Custom Annotations.
   + Worked under P.Sunthar Sir(Department Head of Application Software Centre, IIT Bombay).
 
+
+# Personal Achievements & Projects
+
+  1. Responsive Web Design Certification from FreeCodeCamp website.
+  2. Completed SQL Leetcode 50 plan & won leetcode mysql-badge.
+  3. Solved 100+ DSA problems on leetcode.
+  4. Completed successfully acciojob's Back-end development program and Solved 250+ problems on acciojob portal.
+  5. Completed Programming in Java course and earned a certificate.
+  6. Earned Accenture Nordics Completion Certificate
+  7. Created my portfolio page using HTML, CSS, Javascript.
+
   
 # Skills
  ## Maven, Spring Boot, Spring Security, MySQL, Java, Rest API's, JUnit, Mockito, HTML, CSS, Js
@@ -60,15 +71,6 @@
   <img alt="css logo" width=50px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
   <img alt="javascript logo" width=60px height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 -->
-# Personal Achievements & Projects
-
-  1. Responsive Web Design Certification from FreeCodeCamp website.
-  2. Completed SQL Leetcode 50 plan & won leetcode mysql-badge.
-  3. Solved 100+ DSA problems on leetcode.
-  4. Completed successfully acciojob's Back-end development program and Solved 250+ problems on acciojob portal.
-  5. Completed Programming in Java course and earned a certificate.
-  6. Earned Accenture Nordics Completion Certificate
-  7. Created my portfolio page using HTML, CSS, Javascript.
 
 # Interests
 - Startups
