@@ -35,8 +35,12 @@
   + Collaborated with Front-End Developers and Product Managers to enhance the existing product, reporting directly to the Chief Technology Officer (CTO)
   + Location: Bangalore, Valeo Wellbeing Technologies
   ## 2. Java Microservice Development Intern 
-  + Worked on: microservices using Java, Spring boot, MySQL, JUnit, Mocktio, etc.
-  + Location: Application Software Centre, IIT Bombay, Maharastra.
+  + Worked on Spring Boot Microservice for Application Software Centre in IIT Bombay.
+  + Learnt Git, GitLab flow, Docker basics. Implemented swin-lane & Process Flow Diagrams.
+  + Created documentation for existing API's.
+  + Implemented test cases using JUnit, Mockito.
+  + Implemented Spring Security Concepts: HTTP Basic Authentication, JWT Authentication, Okta SSO Auth, Role-Based-Access-Control with Custom Annotations.
+  + Worked under P.Sunthar Sir(Department Head of Application Software Centre, IIT Bombay).
 
   
 # Skills
@@ -56,22 +60,15 @@
   <img alt="css logo" width=50px height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
   <img alt="javascript logo" width=60px height=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-# Projects
+# Personal Achievements & Projects
 
-  1. Book My Show Backend
-     1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
-     2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
-     3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
- 
-  2. Book My Show Backend
-     1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
-     2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
-     3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
-     
-  3. Book My Show Backend
-     1. Tools & technologies used : Java, Spring Boot, Rest Api, Hibernate, JPA, Git, Postman.
-     2. Concepts used :  DTO's, Controller Layer, Service Layer, Repository Layer, Bi-directional Mapping of Entities, Custom Exceptions.
-     3. <a target="_blank" href="https://github.com/suryatejasunkoju/Book_My_Show">Repo Link</a>
+  1. Responsive Web Design Certification from FreeCodeCamp website.
+  2. Completed SQL Leetcode 50 plan & won leetcode mysql-badge.
+  3. Solved 100+ DSA problems on leetcode.
+  4. Completed successfully acciojob's Back-end development program and Solved 250+ problems on acciojob portal.
+  5. Completed Programming in Java course and earned a certificate.
+  6. Earned Accenture Nordics Completion Certificate
+  7. Created my portfolio page using HTML, CSS, Javascript.
 
 # Interests
 - Startups
