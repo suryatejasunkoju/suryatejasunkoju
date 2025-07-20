@@ -19,7 +19,7 @@
 
 # Experience
 
-  ## 1. Backend Developer(Spring Boot, Java)
+  ## 1. SDE-1(Spring Boot, Java)
   + Managed the entire backend infrastructure of the Kuwa ecommerce website, including both the Website and Admin Panel. Leveraged tools & technologies such as         Spring Boot, Java, MySQL, AWS, Git and BigQuery to ensure seamless functionality and optimal performance.
   + Successfully launched the Kuwa website in Bahrain and Qatar by transitioning from the Shopify platform.
   + Implemented  Uni-Commerce Integration to enable seamless functionalities including order creation, cancellation, and returns, as well as real-time product          management encompassing both individual items and bundled products using schedulers, API calls, and SQS Message queue.
